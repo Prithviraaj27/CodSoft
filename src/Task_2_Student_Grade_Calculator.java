@@ -21,7 +21,7 @@ public class Task_2_Student_Grade_Calculator {
         }
 
 
-        double avg = (double) totalMarks / n;
+        double avg = totalMarks / n;
 
 
         char grade;
