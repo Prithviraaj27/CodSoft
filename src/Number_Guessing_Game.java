@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 import java.util.Random;
 import java.util.Scanner;
-public class Number_Guessing_Game {
+public class Task1_Number_Guessing_Game {
     public static void main(String[] args) {
 
 
